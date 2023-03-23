@@ -36,5 +36,5 @@ Este microcontrolador dispone de canales de entrada ADC de 18 x 12 bits. Los sig
 Si se va a utilizar la conexión por wi-fi se recomienda solo utilizar el ADC1
 
 A continuacion se pueden ver imagenes del proyecto:<br>
-
-![](https://drive.google.com/file/d/1xKZw6iUAWS6M_GUZx5LVnzI8lzCF7uAu/view?usp=share_link)
+<img src="https://github.com/javibautistam/estacionMeteorologicaESP32/tree/main/images/semidesarmado.jpg" width="50%">
+![]([https://pandao.github.io/editor.md/examples/images/4.jpg](https://github.com/javibautistam/estacionMeteorologicaESP32/tree/main/images/semidesarmado.jpg))
